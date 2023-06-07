@@ -1,0 +1,18 @@
+Professional README Guide
+A key component of your profile, and one that many new developers overlook, is the README file that's associated with each repository. A README file acts like a virtual storefront to a repository—it's the first thing that a person sees when they visit a repo on GitHub. But it's also much more than that: README files contain essential information about the repo's project. Thus, the quality of a README file can differentiate a high-quality repo from a low-quality one.
+Guide:
+What was your motivation?
+-My motivation is build a software that helps to tidy and organise staff data base in the organisation so that it will be easy to call up anytime or accessible to to what the organisation needs it for. 
+Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+I have built it to understand a lot more of test driven development by using object oriented programming to create applications, test them and see that they work. 
+Also to understand how to use the constructor functions and prototypes
+What problem does it solve?
+It solves the problem of information management in the organisations in many ways, such as an organising system.
+What did you learn?
+I have learnt how to use the constructor functions and object prototypes. 
+What makes your project stand out?
+It can be customised and is able to take information fed into it
+some of the challenges faced: 
+As a new comer on the program, I am still learning how to use the functions which takes me time to work out. 
+Features you plan to  implement in the future: I plan to add more information on the data i am collecting from members of the organisation. 
+
